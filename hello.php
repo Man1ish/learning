@@ -1,4 +1,5 @@
 <?php 
 echo "Welcome to nepal";
-echo afal;
+$i=0;
+echo $i;
 ?>
